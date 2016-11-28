@@ -29,4 +29,4 @@ curl -H 'Content-Type:application/json' -X POST -d '{"source": "test", "text": "
 
 Run `sbt` and `re-start` from the sbt commandline to build and run the server. Run tests with `test`.
 
-Note: this uses [kuromoji](https://github.com/atilika/kuromoji) for parsing and dictionary JARs should be placed in the 'lib' directory.
+Note: this uses [kuromoji](https://github.com/atilika/kuromoji) for parsing and dictionary JARs should be placed in the `lib` directory.
